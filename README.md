@@ -1,6 +1,6 @@
 # DeepFace-Classifier
 
-**Overview**
+****Overview********
 
 This project demonstrates a robust pipeline for facial feature extraction and recognition, leveraging advanced machine learning techniques. The solution is guided by the pre-trained FaceNet model and employs innovative strategies to tackle dataset biases and classification challenges.
 
