@@ -40,6 +40,5 @@ Confusion matrix for classifier performance assessment.
 
 Visualization of feature embeddings in Euclidean space.
 
-**End Results:
-**
+End Results:
 Example test image and its corresponding predicted match.
