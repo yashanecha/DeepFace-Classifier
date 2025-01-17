@@ -34,7 +34,7 @@ Balancing techniques to ensure uniform class representation.
 
 ## Results
 
-## Evaluation Metrics:
+Evaluation Metrics:
 
 Confusion matrix for classifier performance assessment.
 
